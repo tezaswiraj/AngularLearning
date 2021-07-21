@@ -1,0 +1,11 @@
+<label> {{label}} </label>
+<br>
+<input type="text" class="input field"
+    [formControl]="Control" 
+    [ngClass]="{ 'is-danger': showErrors() }"
+    /> 
+    <ng-container *ngIf="showErrors()">
+        <div class="help is-danger" *ngIf=" Control.errors.required">Required Field</div>
+        <div class="help is-danger" *ngIf="Control.errors.minlength">Enter atleast {{Control.errors.minlength.requiredLength}} characters</div>
+        <div class="help is-danger" *ngIf="Control.errors.pattern">Invalid Format </div>
+    </ng-container>

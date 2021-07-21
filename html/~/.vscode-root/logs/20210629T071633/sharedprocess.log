@@ -1,0 +1,7 @@
+[2021-06-29 07:17:16.912] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-29 07:33:39.818] [sharedprocess] [info] Installing extension: ms-vscode.vs-keybindings
+[2021-06-29 07:33:40.576] [sharedprocess] [info] Downloaded extension: ms-vscode.vs-keybindings /mnt/home/tezaswi/programme/html/~/.vscode-root/CachedExtensionVSIXs/ms-vscode.vs-keybindings-0.2.1
+[2021-06-29 07:33:40.620] [sharedprocess] [info] Extracted extension to /home/elementary/.vscode/extensions/.1453be89-7935-4281-9d81-a62fe10e4d12: ms-vscode.vs-keybindings
+[2021-06-29 07:33:40.625] [sharedprocess] [info] Renamed to /home/elementary/.vscode/extensions/ms-vscode.vs-keybindings-0.2.1
+[2021-06-29 07:33:40.628] [sharedprocess] [info] Installation completed. ms-vscode.vs-keybindings
+[2021-06-29 07:33:40.634] [sharedprocess] [info] Extensions installed successfully: ms-vscode.vs-keybindings
